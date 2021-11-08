@@ -1,4 +1,5 @@
 python>=3.7
+pip
 Pipfile
 pipenv
 orca
