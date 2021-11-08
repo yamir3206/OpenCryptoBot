@@ -103,7 +103,7 @@ In order to run the bot you need to execute some Python code. If you don't have 
 
 *Single-click button to deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yamir3206/OpenCryptoBot/)
 
 ### Prerequisites
 ##### Python version
