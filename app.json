@@ -1,6 +1,24 @@
 {
-  "name": "Crypto price bot :)",
-  "description": "A Telegram bot that can retrieve cryptocurrency price or news from web :)",
-  "repository": "https://github.com/yamir3206/OpenCryptoBot",
-  "keywords": ["crypto", "telegram", "bot"]
+    "name": "cryptopriceebot",
+    "logo": "https://telegra.ph//file/de1ed7424b687ee32e5e6.jpg",
+    "description": "Nothing special",
+    "keywords": [
+        "Telegram",
+        "bot",
+        "crypto"
+    ],
+    "repository": "https://github.com/yamir3206/OpenCryptoBot",
+    "env": {},
+    "stack": "heroku-20",
+    "buildpacks": [
+        {
+            "url": "Heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
 }
