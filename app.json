@@ -1,0 +1,6 @@
+{
+  "name": "Crypto price bot :)",
+  "description": "A Telegram bot that can retrieve cryptocurrency price or news from web :)",
+  "repository": "https://github.com/yamir3206/OpenCryptoBot",
+  "keywords": ["crypto", "telegram", "bot"]
+}
