@@ -10,11 +10,6 @@
     "repository": "https://github.com/yamir3206/OpenCryptoBot",
     "env": {},
     "stack": "heroku-20",
-    "buildpacks": [
-        {
-            "url": "Heroku/python"
-        }
-    ],
     "formation": {
         "worker": {
             "quantity": 1,
