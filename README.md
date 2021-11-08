@@ -101,6 +101,10 @@ This file is optional and only needed if you use the `news` plugin. News are req
 ## Starting
 In order to run the bot you need to execute some Python code. If you don't have any idea where to host the bot, take a look at [Where to host Telegram Bots](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots). But services like [Heroku](https://www.heroku.com) (free) will work fine too. You can also run the script locally on your own computer for testing purposes.
 
+*Single-click button to deploy to heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Prerequisites
 ##### Python version
 You have to use at least __Python 3.7__ to execute the scripts. Everything else is not supported.
